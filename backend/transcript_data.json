@@ -1,0 +1,410 @@
+[
+  {
+    "text": "Hi, class.",
+    "StartTime": 10680,
+    "EndTime": 11248,
+    "VoiceStart": 10680,
+    "VoiceEnd": 11248,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "So today I'll be talking about climate change and species responses to climate change.",
+    "StartTime": 11350,
+    "EndTime": 15790,
+    "VoiceStart": 11350,
+    "VoiceEnd": 15790,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "And what I'll be showing you today is what we can learn from the geological record in terms of understanding past climatic events and how species responded to those climatic events.",
+    "StartTime": 15910,
+    "EndTime": 23810,
+    "VoiceStart": 15910,
+    "VoiceEnd": 23810,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "All right, so the first context here, and this could be a lecture into itself, which I'm not going to go into right now, is the point that the world is warming and that humans are responsible for it.",
+    "StartTime": 24630,
+    "EndTime": 32678,
+    "VoiceStart": 24630,
+    "VoiceEnd": 32678,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "There's been a lot of debate about this in the public media, but again, I want to hit the point that scientists are unified on this one.",
+    "StartTime": 32694,
+    "EndTime": 38502,
+    "VoiceStart": 32694,
+    "VoiceEnd": 38502,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "The evidence is overwhelming at this point that the world is warming and humans are responsible.",
+    "StartTime": 38526,
+    "EndTime": 42470,
+    "VoiceStart": 38526,
+    "VoiceEnd": 42470,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "So you look at the plot there, you can see the black line, which shows historical observations of global mean temperatures over the last century.",
+    "StartTime": 42590,
+    "EndTime": 50918,
+    "VoiceStart": 42590,
+    "VoiceEnd": 50918,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "You can see there's been about a seven tenths of a degree warming.",
+    "StartTime": 51054,
+    "EndTime": 53950,
+    "VoiceStart": 51054,
+    "VoiceEnd": 53950,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "Now, if you look to the future, which is those various blue lines, you can see that the various models project an acceleration of these warming trends over this century.",
+    "StartTime": 54110,
+    "EndTime": 62842,
+    "VoiceStart": 54110,
+    "VoiceEnd": 62842,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "And depending on the scenario you look at from blue to red there, you can have anywhere from about a two degree warming to about a four degree warming.",
+    "StartTime": 62946,
+    "EndTime": 69242,
+    "VoiceStart": 62946,
+    "VoiceEnd": 69242,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "Now, you can ignore that yellow red line at the bottom there.",
+    "StartTime": 69346,
+    "EndTime": 71994,
+    "VoiceStart": 69346,
+    "VoiceEnd": 71994,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "That's more of a what if scenario.",
+    "StartTime": 72082,
+    "EndTime": 73346,
+    "VoiceStart": 72082,
+    "VoiceEnd": 73346,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "If we weren't to do, if we were to shut down CO2 and other greenhouse gases emissions immediately, what would happen to the climate system, which is clearly not going to happen anytime soon.",
+    "StartTime": 73378,
+    "EndTime": 82290,
+    "VoiceStart": 73378,
+    "VoiceEnd": 82290,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "So the point being that we are facing of two to four degree warming over the century, and the question then being what will happen?",
+    "StartTime": 82450,
+    "EndTime": 89104,
+    "VoiceStart": 82450,
+    "VoiceEnd": 89104,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "How will the physical systems respond in terms of hurricane frequency, flood frequency, how will species and natural ecosystems respond?",
+    "StartTime": 89152,
+    "EndTime": 95448,
+    "VoiceStart": 89152,
+    "VoiceEnd": 95448,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "And how will our own societies respond to these drastic changes in climate?",
+    "StartTime": 95544,
+    "EndTime": 99300,
+    "VoiceStart": 95544,
+    "VoiceEnd": 99300,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "So one place we can learn to look to this sort of answer to these sort of questions is looking to the last 20,000 years or so.",
+    "StartTime": 99800,
+    "EndTime": 106920,
+    "VoiceStart": 99800,
+    "VoiceEnd": 106920,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "If you look at that map up atop what you can see there is that 20,000 years ago, we had a large ice sheet on top of the northern hemisphere, covering much of North America and the rest of the northern hemisphere, contrasted with the map at right there, which shows that ice, which is more the present day state ice, being confined mainly to Greenland.",
+    "StartTime": 107040,
+    "EndTime": 123362,
+    "VoiceStart": 107040,
+    "VoiceEnd": 123362,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "So we've gone from a glacial state to an interglacial state in a span of about 20,000 years.",
+    "StartTime": 123386,
+    "EndTime": 127570,
+    "VoiceStart": 123386,
+    "VoiceEnd": 127570,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "That red curve at bottom shows that we've gone from about a ten degree change in Greenland.",
+    "StartTime": 127730,
+    "EndTime": 133186,
+    "VoiceStart": 127730,
+    "VoiceEnd": 133186,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "This is a temperature record from Greenland.",
+    "StartTime": 133218,
+    "EndTime": 134898,
+    "VoiceStart": 133218,
+    "VoiceEnd": 134898,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "We go from about, at left, 20,000 years ago to right present day.",
+    "StartTime": 134994,
+    "EndTime": 138458,
+    "VoiceStart": 134994,
+    "VoiceEnd": 138458,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "You can see several abrupt warming and coolings along the way, these abrupt transitional events.",
+    "StartTime": 138554,
+    "EndTime": 142986,
+    "VoiceStart": 138554,
+    "VoiceEnd": 142986,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "And so we have a very good geological record and understanding of the climatic changes of the past.",
+    "StartTime": 143098,
+    "EndTime": 147322,
+    "VoiceStart": 143098,
+    "VoiceEnd": 147322,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "And so now we can look at the ecological responses to those climatic changes.",
+    "StartTime": 147426,
+    "EndTime": 150802,
+    "VoiceStart": 147426,
+    "VoiceEnd": 150802,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "So what are some of the things we can pull out from these sorts of data?",
+    "StartTime": 150986,
+    "EndTime": 154162,
+    "VoiceStart": 150986,
+    "VoiceEnd": 154162,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "Well, we look at fossil pollen and other plant records.",
+    "StartTime": 154266,
+    "EndTime": 157034,
+    "VoiceStart": 154266,
+    "VoiceEnd": 157034,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "One of the things we can see is that species ranges are highly dynamic.",
+    "StartTime": 157162,
+    "EndTime": 160378,
+    "VoiceStart": 157162,
+    "VoiceEnd": 160378,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "As climate changes, species migrate.",
+    "StartTime": 160434,
+    "EndTime": 163310,
+    "VoiceStart": 160434,
+    "VoiceEnd": 163310,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "You can see this here, where you can see at the top there, the left hand panel is for 21,000 years ago, going to the right at present.",
+    "StartTime": 163930,
+    "EndTime": 171552,
+    "VoiceStart": 163930,
+    "VoiceEnd": 171552,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "And you can see how ice melts away as you go from map to map there.",
+    "StartTime": 171696,
+    "EndTime": 174776,
+    "VoiceStart": 171696,
+    "VoiceEnd": 174776,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "But then look at the green, which is the distribution of spruce based upon fossil pollen and other fossil plant records.",
+    "StartTime": 174888,
+    "EndTime": 180768,
+    "VoiceStart": 174888,
+    "VoiceEnd": 180768,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "You can see how the distribution of spruce has changed from being mainly in the eastern US to being across Canada over the span of these 20,000 years.",
+    "StartTime": 180864,
+    "EndTime": 188248,
+    "VoiceStart": 180864,
+    "VoiceEnd": 188248,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "So ranges are highly dynamic.",
+    "StartTime": 188384,
+    "EndTime": 190264,
+    "VoiceStart": 188384,
+    "VoiceEnd": 190264,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "Now, of course, trees aren't picking up and moving.",
+    "StartTime": 190352,
+    "EndTime": 192680,
+    "VoiceStart": 190352,
+    "VoiceEnd": 192680,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "They're not walking from point a to point b, but instead they're dispersing seeds.",
+    "StartTime": 192720,
+    "EndTime": 196640,
+    "VoiceStart": 192720,
+    "VoiceEnd": 196640,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "Some of these seeds established in new areas, they can colonize and establish new populations.",
+    "StartTime": 196680,
+    "EndTime": 201908,
+    "VoiceStart": 196680,
+    "VoiceEnd": 201908,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "And in other areas where spruce used to grow, those areas become unfavorable and those populations die off.",
+    "StartTime": 202004,
+    "EndTime": 207628,
+    "VoiceStart": 202004,
+    "VoiceEnd": 207628,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "So that's how we have these range shifts of these species.",
+    "StartTime": 207764,
+    "EndTime": 210160,
+    "VoiceStart": 207764,
+    "VoiceEnd": 210160,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "Now, a piece of good news in the geological record is that we don't have very many observed extinctions of Plants over the last 20,000 years.",
+    "StartTime": 211220,
+    "EndTime": 219156,
+    "VoiceStart": 211220,
+    "VoiceEnd": 219156,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "Plant species, I should say.",
+    "StartTime": 219188,
+    "EndTime": 220484,
+    "VoiceStart": 219188,
+    "VoiceEnd": 220484,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "One example of where we do is shown here in this diagram.",
+    "StartTime": 220612,
+    "EndTime": 223596,
+    "VoiceStart": 220612,
+    "VoiceEnd": 223596,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "This is some cross sections of some spruce needles.",
+    "StartTime": 223708,
+    "EndTime": 226260,
+    "VoiceStart": 223708,
+    "VoiceEnd": 226260,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "There's the first four.",
+    "StartTime": 226380,
+    "EndTime": 227548,
+    "VoiceStart": 226380,
+    "VoiceEnd": 227548,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "A through d are from still living species of spruce.",
+    "StartTime": 227604,
+    "EndTime": 230532,
+    "VoiceStart": 227604,
+    "VoiceEnd": 230532,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "E through g are from extinct species of spruce.",
+    "StartTime": 230676,
+    "EndTime": 233476,
+    "VoiceStart": 230676,
+    "VoiceEnd": 233476,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "And so there's some clear evidence from fossil records in the late glacial that there's a set of spruce species that grew in the past that are not found today.",
+    "StartTime": 233628,
+    "EndTime": 242716,
+    "VoiceStart": 233628,
+    "VoiceEnd": 242716,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "So species do go extinct, but this is more the exception than the rule.",
+    "StartTime": 242828,
+    "EndTime": 246840,
+    "VoiceStart": 242828,
+    "VoiceEnd": 246840,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "However, if you combine climate change with other drivers, other stressors to these natural systems, that's when you can have widespread and potentially devastating ways of extinctions.",
+    "StartTime": 247580,
+    "EndTime": 261164,
+    "VoiceStart": 247580,
+    "VoiceEnd": 261164,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "The most famous ones occur again, Pleistocene here, with the extinction of mammoths and other large mammals from North America.",
+    "StartTime": 261212,
+    "EndTime": 269040,
+    "VoiceStart": 261212,
+    "VoiceEnd": 269040,
+    "Speaker": "SPK_1"
+  },
+  {
+    "text": "These were caused by the.",
+    "StartTime": 269340,
+    "EndTime": 270780,
+    "VoiceStart": 269340,
+    "VoiceEnd": 270780,
+    "Speaker": "SPK_1"
+  }
+]
